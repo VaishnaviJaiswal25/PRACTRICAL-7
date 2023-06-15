@@ -1,0 +1,10 @@
+body{
+    text-align: center ;
+    background-image: radial-gradient(circle,blue ,yellow,green,orange );
+}
+div{
+    border:5px solid rgb(25,0,255);
+    width: 300px;
+    margin-left: 400px;
+    margin-top: 50px;
+}
